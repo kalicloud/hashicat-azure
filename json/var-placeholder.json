@@ -3,7 +3,7 @@
     "type":"vars",
     "attributes": {
       "key":"placeholder",
-      "value":"Kali Test02",
+      "value":"picsum.photos",
       "category":"terraform",
       "hcl":false,
       "sensitive":false

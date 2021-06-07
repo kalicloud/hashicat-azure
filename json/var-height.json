@@ -3,7 +3,7 @@
     "type":"vars",
     "attributes": {
       "key":"height",
-      "value":"Kali Test03",
+      "value":"600",
       "category":"terraform",
       "hcl":false,
       "sensitive":false
